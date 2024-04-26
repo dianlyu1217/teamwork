@@ -3,3 +3,4 @@ __pycache__
 #todo: 上线后删除.env & 解开
 #*.env
 *.sqlite
+.idea
